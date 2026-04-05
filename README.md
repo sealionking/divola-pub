@@ -13,6 +13,7 @@
 
 ### 📸 演示截图
 <p align="center">
-  <img src="showcase1.png" width="400" />
-  <img src="showcase2.png" width="400" />
+  <img src="showcase1.png" width="100%" alt="Showcase 1" />
+  <br/><br/>
+  <img src="showcase2.png" width="100%" alt="Showcase 2" />
 </p>
