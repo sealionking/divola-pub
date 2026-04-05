@@ -10,3 +10,9 @@
 
 ### 🛡️ 安全校验
 每个发布版本都附带了 SHA-256 校验码，建议在运行前进行比对。
+
+### 📸 演示截图
+<p align="center">
+  <img src="showcase1.png" width="400" />
+  <img src="showcase2.png" width="400" />
+</p>
